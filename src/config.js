@@ -7,7 +7,7 @@ module.exports = {
 
   nodes: [
     {
-      host: "your-lavalink-host.com", // Your lavalink host address 
+      host: "https://lavalink-status-p2u6.onrender.com", // Your lavalink host address 
       password: "your-password", // Your lavalink password
       port: 2333, // Your lavalink port
       identifier: "Node", // Name for your lavalink
